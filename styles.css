@@ -14,8 +14,8 @@ body {
 }
 
 #heading {
-    width: 700px;
-    height: 350px;
+    width: 1024px;
+    height: 550px;
     margin: 0 auto;
     background-image: url(images/Stuttgart.webp);
     background-size: cover;
