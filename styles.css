@@ -16,13 +16,34 @@ body {
 #heading {
     width: 700px;
     height: 350px;
+    margin: 0 auto;
     background-image: url(images/Stuttgart.webp);
     background-size: cover;
-    border: 3px solid red;
-    margin: 10px auto;
     border-radius: 10px 10px 0 0;
+    margin: 10px auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
 img {
     width: 100px;
+}
+
+#visit-heading {
+    background: #1D3557;
+    color: antiquewhite;
+    border-radius: 10px;
+    padding: 5px 15px;
+    margin-bottom: 10px;
+}
+
+#culture-heading {
+    background: #457B9D;
+    color: antiquewhite;
+    width: 400px;
+    border-radius: 10px;
+    padding: 5px 50px;
+    margin-top: 10px;
 }
