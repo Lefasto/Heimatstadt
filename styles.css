@@ -117,7 +117,7 @@ body {
     width: 400px;
     height: 300px;
     border-radius: 10px;
-    border-bottom: 5px solid black;
+    border-bottom: 5px solid #1D3557;
 }
 
 #card-body {
