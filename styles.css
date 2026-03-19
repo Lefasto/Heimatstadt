@@ -12,7 +12,7 @@ body {
     margin: 0;
     text-align: center;
     color: #1D3557;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: "Questrial", sans-serif;
 }
 
 #heading {
@@ -108,4 +108,39 @@ body {
 
 .sights-img {
     padding: 0 20px;
+}
+
+#card {
+    
+    background: #A8DADC;
+    margin: 50px auto;
+    width: 400px;
+    height: 300px;
+    border-radius: 10px;
+    border-bottom: 5px solid black;
+}
+
+#card-body {
+    display: flex;
+    align-items: center;
+
+}
+
+#gabriel-img {
+    width: 180px;
+    height: 250px;
+    padding: 25px 5px 10px 15px;
+    border-radius: 10px;
+}
+
+#gabriel-txt {
+    padding-right: 10px;
+}
+
+#card-paragraph {
+    font-style: italic;
+}
+
+#card-guide {
+    font-weight: bold;
 }
