@@ -60,3 +60,50 @@ img {
     width: 760px;
     padding: 30px 0 15px 0;
 }
+
+#stuttgart-stadion-img {
+    background-image: url(images/stuttgart_stadium.jpg);
+    background-size: cover;
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+    margin: 0 auto;
+}
+
+#stuttgart-stadion-img:hover {
+    background-image: url(images/fankurve-hover.jpg);
+    height: 100px;
+    width: 100px;
+}
+
+#stuttgart-park-img {
+    background-image: url(images/hoehenpark.webp);
+    background-size: cover;
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+    margin: 0 auto;
+}
+
+#stuttgart-park-img:hover {
+    background-image: url(images/hoehenpark-hover.webp);
+    background-size: cover;
+    width: 100px;
+    height: 100px;
+}
+
+#stuttgart-museum-img {
+    background-image: url(images/Rosensteinmuseum.jpg);
+    background-size: cover;
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+    margin: 0 auto;
+}
+
+#stuttgart-museum-img:hover {
+    background-image: url(images/rosensteinmuseum-hover.jpg);
+    background-size: cover;
+    width: 100px;
+    height: 100px;
+}
