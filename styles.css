@@ -14,8 +14,8 @@ body {
 }
 
 #heading {
-    width: 1024px;
-    height: 550px;
+    width: 760px;
+    height: 380px;
     margin: 0 auto;
     background-image: url(images/Stuttgart.webp);
     background-size: cover;
@@ -37,6 +37,7 @@ img {
     border-radius: 10px;
     padding: 5px 15px;
     margin-bottom: 10px;
+    box-shadow: 0 0 2px black;
 }
 
 #culture-heading {
@@ -46,4 +47,5 @@ img {
     border-radius: 10px;
     padding: 5px 50px;
     margin-top: 10px;
+    box-shadow: 0 0 2px black;
 }
