@@ -107,3 +107,8 @@ img {
     width: 100px;
     height: 100px;
 }
+
+#sights {
+    display: flex;
+    padding-top: 25px;
+}
